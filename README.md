@@ -1,5 +1,5 @@
 # modelfiles
-This repository consists of files from the SIR &amp; Voter Model Simulation Executions
+This repository consists of files from the SIR &amp; Voter Model Simulation Executions on Epinions Dataset.
 
 SIR MODEL
 For the SIR Model the fraction infected used is the constant through all of the simulations and it's 0.05, meaning the starting off point is low. 
